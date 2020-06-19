@@ -1,3 +1,7 @@
+; exec
+; -> lein repl
+; -> (load-file "HelloWorld/hello-world.clj")
+
 ; My first contact with clojure
 
 (println "Hello World")
